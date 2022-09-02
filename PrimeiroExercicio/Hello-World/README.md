@@ -1,3 +1,3 @@
 # Meu primeiro repositório
-console.log(Hello World):
+Imprimindo a mensagem "hello-world"
 
