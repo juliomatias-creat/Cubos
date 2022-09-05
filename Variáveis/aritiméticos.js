@@ -20,3 +20,4 @@ console.log(resultado);
 
 console.log(`a soma de ${x} e ${y} é 12`);
 
+.
