@@ -18,5 +18,5 @@ console.log(mensagem);
 
 // a soma de 10 e 2 é 12
 
-console.log(`a soma de ${x} e ${y} é 12`);
+console.log(`a soma de ${x} e ${y} é ${x} + ${y}`);
 
