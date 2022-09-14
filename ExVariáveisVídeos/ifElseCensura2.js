@@ -1,17 +1,18 @@
 // tem ingresso 
 // idade >= 16 OU estar acompanhado dos pais
 
-const temIngresso = true;
-const idade = 17;
+const temIngresso = false;
+const idade = 15;
 const censura = 16;
 const estaComOsPais = false;
 
-if (temIngresso === true) {
-    if (idade >= censura || estaComOsPais === true) {
+// Interessante: Podemos omitir a comparação de variáveis do tipo boleana
+
+
+if (temIngresso) {
+    if (idade >= censura || estaComOsPais) {
         console.log("pode entrar");
-    } else {
-        console.log("barrada");
-    }
+    } else ("barrada");
 } else {
-    console.log("barrado");
+    console.log("Barrada");
 }
