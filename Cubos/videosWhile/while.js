@@ -2,7 +2,8 @@ const nomeDosEstudantes = ['Jose', 'Joao', 'Maria', 'Julio', 'Adriana'];
 
 let indice = 0;
 
-while (indice < 5) { // Enquanto
+// Enquanto
+   while (indice < 5) { 
     console.log(nomeDosEstudantes[indice]);
     indice++
 }
