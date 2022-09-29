@@ -8,7 +8,7 @@ const numerosPares = [0, 2, 4, 6, 8, 10];
 
 let i = 0
 
-// Enquanto i for menor que otamanho do array
+// Enquanto i for menor que o tamanho do array
 while (i < numerosPares.length) {
     // Execute isso
     console.log(numerosPares[i])
