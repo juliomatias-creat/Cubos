@@ -1,7 +1,7 @@
-// Faça um programa que conte de 10 até 0(de trá pra frente mesmo).
+// Faça um programa que conte de 10 até 0(de trás pra frente mesmo).
 
-for (let i = 10; i >= 0; i-- ) {
-    console.log(i);
+for (let numero = 10; numero >= 0; numero -- ) {
+    console.log(numero);
 }
 
 
