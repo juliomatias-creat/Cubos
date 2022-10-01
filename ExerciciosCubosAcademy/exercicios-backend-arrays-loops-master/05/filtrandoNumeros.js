@@ -38,4 +38,4 @@ for (let numero of original) {
  
 //  Logo, apesar do fo of ser mais prático, ele pode não ser a melhor alternativa que dependerá do caso.
 
-//  Se o problema quiser a posição, além do valor, o ideal é usar o forDeC
+//  Se o problema quiser a posição, além do valor, o ideal é usar o forDeC 
