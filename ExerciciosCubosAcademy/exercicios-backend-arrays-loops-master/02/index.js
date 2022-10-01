@@ -4,9 +4,9 @@
 
 // 1° para contar quantas letras 'E' ou 'e' existem, é preciso varrer a Array e para isso uso o for of
 
-// 2° É preciso verificar se cada letra é igaul a 'E' ou 'e".
+// 2° Depois de encontrado a soma das letras, devo imprimir msgś de acordo com a quantidade ecntrada.
 
-// a) Quando não houver nenhuma letra "E" ou "e" como no array letras, Deverá ser impresso no console:
+// a) Quando não houver nenhuma letra "E" ou "e", Deverá ser impresso no console:
 
 // Nenhuma letra "E" ou "e" foi encontrada.
 
