@@ -20,17 +20,17 @@
 
 const nomes = ["Joana", "Adalberto", "Carlos", "amanda", "Pedro", "Araújo"];
 
-let novoArray = [];
+let nomesComecadosComA = [];
 
     for (let nome of nomes) {
         const inicial = nome[0];
-        if (inicial[0] === "A"|| inicial[0] === "a") {
-        novoArray.push(nome);
+        if (inicial === "A"|| inicial === "a") {
+            nomesComecadosComA.push(nome);
     }
     
 } 
 
-console.log(novoArray);
+console.log(nomesComecadosComA);
 
 
 
