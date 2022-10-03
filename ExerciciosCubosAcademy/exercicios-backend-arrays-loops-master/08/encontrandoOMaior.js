@@ -4,7 +4,7 @@
 
 
 // Quais ferramentas eu preciso?
-
+ 
 // Eu preciso percorrer cada item desse array
 
 /* Eu preciso olhar cada um dos números e verificar se ele é maior do que o que eu já considerava o maior até aqui. 
