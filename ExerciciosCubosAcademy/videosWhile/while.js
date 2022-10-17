@@ -7,4 +7,4 @@ let indice = 0;
     console.log(nomeDosEstudantes[indice]);
     indice++
 }
-
+ dfdj
