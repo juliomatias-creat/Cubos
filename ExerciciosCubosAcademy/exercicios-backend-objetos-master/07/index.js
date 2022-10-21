@@ -40,4 +40,4 @@ for (let i = 0; i < livro.capitulos.length; i++) {
     livro.capitulos[i].numero = i + 1; // assim enumera corretamente somando 1 ao i
     //representa o objeto / .numero = i e anova propriedade
 }
-console.log(livro);
+console.log(livro); 
