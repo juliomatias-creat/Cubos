@@ -1,3 +1,7 @@
+
+
+
+
 //1 - Separando as funções
 //Aqui basta apenas colocar o nome da função callback dentro da funçção
 //principal.
@@ -35,16 +39,14 @@
 // Por fim, quando uma função só tem um parâmetro, os parêntes é opcional.
 
 const saudacao = (callback) => {
-            let nome = 'Julio';
-            callback(nome);
-                }
-            
-        //         const mensagem = (nome) => {
-        //     console.log(`Olá ${nome}, seja bem vindo!`)
-        // }
+    let nome = 'Julio';
+    callback(nome);
+        }
     
-        saudacao(nome => {
-            console.log(`Olá ${nome}, seja bem vindo!`)
-        });
+//         const mensagem = (nome) => {
+//     console.log(`Olá ${nome}, seja bem vindo!`)
+// }
 
-
+saudacao(nome => {
+    console.log(`Olá ${nome}, seja bem vindo!`)
+});
